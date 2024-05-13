@@ -1,4 +1,5 @@
 <h1> Bro what the hell</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruffoh&label=Profile%20views&color=b60eb1&style=flat" alt="ruffoh" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruffoh&no-frame=true&no-bg=true&theme=dracula" alt="ruffoh" /></a> </p>
 <img src= "https://www.repstatic.it/content/localirep/img/rep-roma/2023/11/07/165119557-2e01e893-4e4e-4d5e-9fd9-5b41de771056.jpg">
 - 👋 Hi, I’m Giacomo
